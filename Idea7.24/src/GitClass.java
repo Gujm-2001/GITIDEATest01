@@ -5,7 +5,7 @@
 import java.util.Scanner;
 //婚恋网站
 public class GitClass {
-    public static void main(String[] args) {
+    public static void main(String [] args) {
         int score;
         Scanner scan = new Scanner(System.in);
         System.out.println("请输入你的姓名");
